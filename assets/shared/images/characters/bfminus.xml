@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfminus.png">
+<SubTexture name="bfminus idle0000" x="372" y="946" width="372" height="445" frameX="-154" frameY="-279" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0001" x="744" y="946" width="381" height="442" frameX="-152" frameY="-282" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0002" x="0" y="946" width="372" height="447" frameX="-152" frameY="-277" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0003" x="1380" y="0" width="375" height="455" frameX="-154" frameY="-269" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus idle0004" x="660" y="0" width="376" height="463" frameX="-155" frameY="-261" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus left0000" x="340" y="0" width="320" height="467" frameX="-178" frameY="-257" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus left0001" x="369" y="483" width="312" height="462" frameX="-199" frameY="-262" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus down0000" x="1755" y="0" width="381" height="400" frameX="-226" frameY="-323" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus down0001" x="1125" y="946" width="381" height="428" frameX="-223" frameY="-295" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus right0000" x="681" y="483" width="342" height="462" frameX="-251" frameY="-262" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus right0001" x="1380" y="455" width="326" height="455" frameX="-243" frameY="-269" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus up0000" x="0" y="0" width="340" height="483" frameX="-189" frameY="-234" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus up0001" x="1036" y="0" width="344" height="462" frameX="-189" frameY="-255" frameWidth="800" frameHeight="800" />
+<SubTexture name="bfminus hey0000" x="0" y="483" width="369" height="463" frameX="-209" frameY="-261" frameWidth="800" frameHeight="800" />
+</TextureAtlas>
