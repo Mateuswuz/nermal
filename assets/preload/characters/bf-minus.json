@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfminus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfminus left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				3
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfminus down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-7
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfminus up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfminus right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bfminus hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bfminus",
+	"position": [
+		-100,
+		60
+	],
+	"healthicon": "bfm",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		150,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
